@@ -8,4 +8,5 @@
 
 &nbsp;         | &nbsp;
 :------------- | :-----
-Contact        | Hola-Labs <hola-labs@outlook.com>
+Download       | [project-R-whitepaper](project-R-whitepaper.pdf)        
+Contact        | <hola-labs@outlook.com>
