@@ -1,12 +1,13 @@
-# The Project R Whitepaper
-
-
-## We are developing stunning mobile visual effects software.
-
-
-
+# The Project R : Bridging Creativity and Value
+#### Whitepaper
 
 &nbsp;         | &nbsp;
 :------------- | :-----
-Download       | [project-R-whitepaper](project-R-whitepaper.pdf)        
-Contact        | <hola-labs@outlook.com>
+whitepaper     | [project-R-whitepaper](project-R-whitepaper.pdf)        
+contact        | <hola-labs@outlook.com>
+
+#### Latest updates
+&nbsp;         | &nbsp;
+:------------- | :-----
+tuesday, 19 march 2024 | whitepaper 1.0        
+
